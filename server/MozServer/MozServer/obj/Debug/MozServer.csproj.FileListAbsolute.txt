@@ -1,0 +1,10 @@
+c:\users\rasmok\documents\visual studio 2015\Projects\MozServer\MozServer\bin\Debug\MozServer.exe.config
+c:\users\rasmok\documents\visual studio 2015\Projects\MozServer\MozServer\bin\Debug\MozServer.exe
+c:\users\rasmok\documents\visual studio 2015\Projects\MozServer\MozServer\bin\Debug\MozServer.pdb
+c:\users\rasmok\documents\visual studio 2015\Projects\MozServer\MozServer\obj\Debug\MozServer.exe
+c:\users\rasmok\documents\visual studio 2015\Projects\MozServer\MozServer\obj\Debug\MozServer.pdb
+C:\Users\Rasmok\Documents\Visual Studio 2015\Projects\MozServer\MozServer\obj\Debug\MozServer.csprojResolveAssemblyReference.cache
+C:\Users\Rasmok\Documents\Visual Studio 2015\Projects\MozServer\MozServer\bin\Debug\MySql.Data.dll
+C:\Users\Rasmok\Desktop\server\MozServer\MozServer\bin\Debug\MozServer.exe.config
+C:\Users\Rasmok\Desktop\server\MozServer\MozServer\obj\Debug\MozServer.exe
+C:\Users\Rasmok\Desktop\server\MozServer\MozServer\obj\Debug\MozServer.pdb

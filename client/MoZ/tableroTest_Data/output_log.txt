@@ -1,0 +1,69 @@
+Mono path[0] = 'C:/Users/Rasmok/Documents/MoZ/tableroTest_Data/Managed'
+Mono path[1] = 'C:/Users/Rasmok/Documents/MoZ/tableroTest_Data/Mono'
+Mono config path = 'C:/Users/Rasmok/Documents/MoZ/tableroTest_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Rasmok/Documents/MoZ/tableroTest_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55411
+Multi-casting "[IP] 192.168.1.15 [Port] 55411 [Flags] 2 [Guid] 2783733476 [EditorId] 1199046562 [Version] 1048832 [Id] WindowsPlayer(Rasmok-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.15:55411]
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6700 Series (ID=0x673e)
+    Vendor:   ATI
+    VRAM:     1015 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.041 seconds
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Rasmok\Documents\MoZ\tableroTest_Data\Managed\System.dll (this message is harmless)
+posar a private: enemy.hand, Board.boardCards, card._played
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Enemy:Start() (at C:\Users\Rasmok\Documents\MoZ\Assets\Scripts\Enemy.cs:17)
+ 
+(Filename: C:/Users/Rasmok/Documents/MoZ/Assets/Scripts/Enemy.cs Line: 17)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d60 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.418201 ms
+System memory in use before: 18.2 MB.
+System memory in use after: 18.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.154813 ms (FindLiveObjects: 0.016681 ms CreateObjectMapping: 0.017266 ms MarkObjects: 0.117354 ms  DeleteObjects: 0.002926 ms)
+
+posar a private: enemy.hand, Board.boardCards, card._played
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Enemy:Start() (at C:\Users\Rasmok\Documents\MoZ\Assets\Scripts\Enemy.cs:17)
+ 
+(Filename: C:/Users/Rasmok/Documents/MoZ/Assets/Scripts/Enemy.cs Line: 17)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.407666 ms
+System memory in use before: 18.2 MB.
+System memory in use after: 18.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.144278 ms (FindLiveObjects: 0.015510 ms CreateObjectMapping: 0.011998 ms MarkObjects: 0.113256 ms  DeleteObjects: 0.002926 ms)
+
+posar a private: enemy.hand, Board.boardCards, card._played
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Enemy:Start() (at C:\Users\Rasmok\Documents\MoZ\Assets\Scripts\Enemy.cs:17)
+ 
+(Filename: C:/Users/Rasmok/Documents/MoZ/Assets/Scripts/Enemy.cs Line: 17)
+
