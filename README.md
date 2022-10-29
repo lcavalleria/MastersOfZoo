@@ -1,6 +1,7 @@
 # MastersOfZoo
 Triple Triad (Final Fantasy VIII) re-skin pc &amp; android multiplayer
 
+[update 2022]
 This is a personal project i did a long time ago, unfortunately i put a lot of logic on the
 database (triggers, cascade deletions which were part of the logic loop, etc) which i didn´t save,
 and as i didn´t save any screenshots, there is no way to execute the game, or even see it.
